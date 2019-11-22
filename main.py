@@ -4,7 +4,6 @@ from PyQt5 import uic
 from PyQt5.QtWidgets import QApplication, QWidget, QTableWidgetItem
 
 
-
 class MyWidget(QWidget):
     def __init__(self):
         super().__init__()
